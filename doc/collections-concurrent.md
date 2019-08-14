@@ -3,7 +3,9 @@
         * ![C] CopyOnWriteArrayList ![5]
     * ![I] Set
         * ![C] CopyOnWriteArraySet ![5]
-        * ![C] ConcurrentSkipListSet ![6]
+        * ![I] SortedSet
+            * ![I] NavigableSet ![6]
+                * ![C] ConcurrentSkipListSet ![6]
     * ![I] Queue ![5]
         * ![C] ArrayBlockingQueue ![5]
         * ![C] ConcurrentLinkedQueue ![5]
